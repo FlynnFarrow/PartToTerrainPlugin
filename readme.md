@@ -5,9 +5,9 @@
 	</a>
 </div>
 
-Converts part to terrain. Has specific options to keep existing terrain instead of overriding it.
+Converts part to terrain. Has specific options to keep existing terrain instead of overriding it. Roblox has got a Studio beta feature replacing this however I'm working to improve the UI in here.
 
-You can find the published version [here](https://www.roblox.com/library/1618177131/Quentys-Part-to-Terrain).
+You can find the original version [here](https://www.roblox.com/library/1618177131/Quentys-Part-to-Terrain).
 
 ### Installing
 
