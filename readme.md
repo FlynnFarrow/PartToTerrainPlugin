@@ -13,6 +13,7 @@ You can find the original version [here](https://www.roblox.com/library/16181771
 
 1. Navigate to https://www.roblox.com/library/1618177131/Quentys-Part-to-Terrain
 2. Press Install
+3. Accept prompts that request to open Roblox Studio
 
 ### Features
 
